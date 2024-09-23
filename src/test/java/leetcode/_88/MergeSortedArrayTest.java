@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode._88;
 
 import static org.junit.jupiter.api.Assertions.*;
 
